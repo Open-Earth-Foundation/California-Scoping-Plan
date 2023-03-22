@@ -1,0 +1,10 @@
+action_id,plan_id,actor_id,action_type,sector,year,description,emissions_reductions,datasource_id
+CARB:2022:PLAN:1,CARB:2022:PLAN,US-CA,wind power,electricity generation,2045,At least 20 GW offshore wind capacity built by 2045,,CARB:2022:SOURCE
+CARB:2022:PLAN:2,CARB:2022:PLAN,US-CA,climate-friendly homes,housing,2030,3 million climate-friendly homes by 2030,,CARB:2022:SOURCE
+CARB:2022:PLAN:3,CARB:2022:PLAN,US-CA,climate-friendly homes,housing,2035,7 million by 2035,,CARB:2022:SOURCE
+CARB:2022:PLAN:4,CARB:2022:PLAN,US-CA,heat pumps,HVAC,2030,6 million heat pumps deployed by 2030,,CARB:2022:SOURCE
+CARB:2022:PLAN:5,CARB:2022:PLAN,US-CA,carbon capture,,2030,Carbon removal/capture targets of 20 million metric tons CO2 equivalent (MMTCO2e) by 2030,,CARB:2022:SOURCE
+CARB:2022:PLAN:6,CARB:2022:PLAN,US-CA,carbon capture,,2045,Carbon removal/capture targets of [...] 100 MMTCO2e by 2045,,CARB:2022:SOURCE
+CARB:2022:PLAN:7,CARB:2022:PLAN,US-CA,electrification,aviation,2045,Achieve 20% non-combustion in the aviation sector by 2045,,CARB:2022:SOURCE
+CARB:2022:PLAN:8,CARB:2022:PLAN,US-CA,traffic reduction,transportation,2030,Light-duty vehicle miles traveled (VMT) target of 25% per capita below 1990 levels by 2030,,CARB:2022:SOURCE
+CARB:2022:PLAN:9,CARB:2022:PLAN,US-CA,traffic reduction,transportation,2045,Light-duty vehicle miles traveled (VMT) target of [...] 30% per capita below 1990 levels by 2045,,CARB:2022:SOURCE
